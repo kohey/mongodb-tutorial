@@ -11,3 +11,6 @@
 3. install mongodb
 `brew install mongodb-community@5.0`
 replace version `@xxx` if needed
+
+4. launch shell
+`mongo`
