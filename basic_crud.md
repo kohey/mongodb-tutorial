@@ -36,6 +36,9 @@ almost same as find
 - aggregate  
 you can use aggregate by grouping data
 
+- upsert(bulk ver)
+`bulk.find({query}).upsert().updateOne`  
+
 
 # tips
 - capped collection  
